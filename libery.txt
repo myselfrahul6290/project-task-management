@@ -1,0 +1,12 @@
+1. Bootstrap
+cmd> npm install bootstrap
+
+2. for create routing use package
+npm install react-router-dom
+
+3. for server use json-server
+cmd> npm install -g json-server
+
+4. Run JSON SERVER cmd
+
+cmd> npx json-server --watch db.json --port 8000

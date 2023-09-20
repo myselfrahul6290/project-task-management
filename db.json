@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "task": " background color",
+      "assign": "Shyam",
+      "desc": "change the background color in Sign up page",
+      "task_status": "Progress"
+    },
+    {
+      "task": "create about page",
+      "assign": "Rohan",
+      "desc": "create about page and mention all details of the company and and link with Navbar and footer",
+      "task_status": "To-do",
+      "id": 2
+    },
+    {
+      "task": "social media login",
+      "assign": "Rahul",
+      "desc": "Implement a social media login system , and store all information in user table in DB",
+      "task_status": "To-do",
+      "id": 3
+    }
+  ]
+}
